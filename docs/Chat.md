@@ -46,6 +46,7 @@ Generate a completion for chat-based conversations
     ```
 
 === "Node.js"
+    
     ```javascript
     // Node 18+ built-in fetch
     const API_URL = "https://api.apigo.ai/v1/chat/completions";
@@ -219,8 +220,7 @@ Generate a completion for chat-based conversations
 | --- | --- | --- |------------------------------------------|
 | model | string | required | The model ID to use for the completion.  |
 | messages | array | required | Array of chat messages describing the conversation so far.  |
-| model | string | required | The model ID to use for the completion.  |
-| model | string | required | The model ID to use for the completion.  |
+| stream | boolean | default:"false" | If true, results are returned as server-sent events. |
 
 ##  Responses Parameters
 | Name                                            | Type | Description                                                                                                                                                                                                                                                                  | Example                            |

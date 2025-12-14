@@ -68,6 +68,10 @@ theme:
 nav:
   - Documentation: index.md
   - Chat: Chat.md
+  - Message: Message.md
+  - Video: Video.md
+  - Image: Image.md
+  - Support: Support.md
   # - 主页: index.md
 #  - MKdocs中文教程:
 #      - MKdocs教程(三部曲):
