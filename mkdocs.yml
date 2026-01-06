@@ -1,5 +1,5 @@
 #[Info]
-site_name: Api•Go #your site-bak name 显示在左上角
+site_name: Api•Go #your site name 显示在左上角
 site_url: https://www.apigo.ai
 site_description: 安全 稳定 智能 高速
 site_author: apigo.ai # your name
@@ -76,6 +76,8 @@ nav:
   - Provider & Models:
       - Introduce: Provider/introduce.md
       - Models: Provider/models.md
+      - ModelUse: Provider/ModelUse.md
+
   # - 主页: index.md
 #  - MKdocs中文教程:
 #      - MKdocs教程(三部曲):
