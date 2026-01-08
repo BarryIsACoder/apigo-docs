@@ -76,6 +76,7 @@ nav:
   - Provider & Models:
       - Introduce: Provider/introduce.md
       - Models: Provider/models.md
+      - ModelSelect: Provider/ModelSelect.md
       - ModelUse: Provider/ModelUse.md
 
   # - 主页: index.md

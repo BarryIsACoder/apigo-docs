@@ -4,7 +4,6 @@ Generate a completion for chat-based conversations
 ## Language Examples
 
 
-
 === "CURL"
 
     ```shell
